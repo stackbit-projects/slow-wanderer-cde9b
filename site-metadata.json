@@ -6,7 +6,7 @@
         "logo_img": "images/Avi Logo.png",
         "logo_img_alt": "Avi logo",
         "background_img": "images/boat-in-clear-blue-ocean.jpg",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
